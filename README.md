@@ -1,3 +1,2 @@
-# microsoft
-microsoft dep
-microsoft dep
+# microsoft sql
+microsoft sql jar
